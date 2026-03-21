@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Vish-D
-- 👀 I’m interested in Statistics and Analysis.
-- 🌱 I’m currently trying to learn computer languages beginning with Python, which is new to me obviously.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an avid reader and procrastrinator 
+# Hey there! 👋
+
+Vishael Denislaus here - BSc Statistics & IT student.  
+💡 Interested in Data Science, Analysis & Statistics  
+💻 Currently learning, experimenting, and **putting my skills into practice**
+
 
 <!---
 Vish-D/Vish-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
