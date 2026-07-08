@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Vishael Denislaus here - BSc Statistics & IT student.  
+Vishael Denislaus here - BSc (Hons) Applied Statistics & IT student.  
 💡 Interested in Data Science, Analysis & Statistics  
 💻 Currently learning, experimenting, and **putting my skills into practice**
 
